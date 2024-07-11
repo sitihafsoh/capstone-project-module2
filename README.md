@@ -60,8 +60,6 @@ Kesimpulan dan rekomendasi dalam analisis data adalah ringkasan temuan dan saran
 2. Rekomendasi
 <br><br>
 ---
-
-## **Dashboard Tableau**<br>
 [Dashboard Tableau](https://public.tableau.com/views/MarketingTeamDashboard/d1segmentasipelanggan?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br><br>
 ---
 
