@@ -1,9 +1,3 @@
-Catatan:
-Data yang digunakan dalam analisis ini adalah data fiktif dan tidak mencerminkan situasi di dunia nyata. Analisis ini hanya untuk tujuan pembelajaran dan tidak dimaksudkan untuk mewakili data atau situasi aktual. Data fiktif yang digunakan dalam analisis ini dapat ditemukan di laman https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales.
----
-<br><br>
-
-
 # **Capstone Project Module 2: AWS SaaS Sales**
 
 ## **Latar Belakang**
