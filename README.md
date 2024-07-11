@@ -48,17 +48,17 @@ Berisi data yang sudah selesai dibersihkan dan siap untuk proses analisa data.
 ## **Analisa Data**
 Analisis data adalah proses sistematis untuk menguraikan, menginterpretasikan, dan mengolah data agar dapat diambil kesimpulan yang berharga. Tujuannya untuk meningkatkan pemahaman, membuat keputusan, memecahkan masalah, meningkatkan efisiensi, dan menemukan peluang baru. Jenisnya terbagi menjadi dua, yaitu kualitatif dan kuantitatif. Manfaatnya antara lain meningkatkan pengambilan keputusan, efisiensi, profitabilitas, kepuasan pelanggan, dan inovasi.
 
-### **A. Segmentasi Pelanggan dan Identifikasi Peluang Pasar**<br>
-### **B. Mengukur Efektivitas Kampanye Pemasaran**<br>
-### **C. Strategi Diskon dan Promosi**<br>
-### **D. Peningkatan Pengalaman Pelanggan**<br>
+#### **A. Segmentasi Pelanggan dan Identifikasi Peluang Pasar**
+#### **B. Mengukur Efektivitas Kampanye Pemasaran**
+#### **C. Strategi Diskon dan Promosi**
+#### **D. Peningkatan Pengalaman Pelanggan**<br><br>
 
 ## **Kesimpulan dan Rekomendasi**
 
 Kesimpulan dan rekomendasi dalam analisis data adalah ringkasan temuan dan saran untuk tindakan yang harus diambil. Kesimpulan harus jelas, ringkas, dan didukung data, sedangkan rekomendasi harus spesifik, terukur, dan realistis. Keduanya penting untuk meningkatkan nilai analisis data dan memungkinkan pengambilan keputusan yang lebih efektif.
 
-### A. Kesimpulan<br>
-### B. Rekomendasi
+#### A. Kesimpulan<br>
+#### B. Rekomendasi
 <br><br>
 ---
 [Dashboard Tableau](https://public.tableau.com/views/MarketingTeamDashboard/d1segmentasipelanggan?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br><br>
