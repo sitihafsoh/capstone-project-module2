@@ -8,8 +8,6 @@ Analisa data ini dilakukan oleh Tim Analisis Data Amazon Web Services (AWS) untu
 Dataset `SaaS.Sales.csv` di bawah memberikan informasi mendetail tentang transaksi penjualan yang terjadi, termasuk data produk, pelanggan, lokasi geografis, diskon, dan keuntungan.
 
 ### **A. Pernyataan Masalah**
-## **A. Pernyataan Masalah**
-
 Berikut merupakan tantangan / masalah yang sedang dihadapi oleh Tim Pemasaran:<br>
 1. Tim pemasaran memerlukan pemahaman yang mendalam tentang pola penjualan dan tren pasar untuk mengidentifikasi peluang baru dan segmen pelanggan yang paling menguntungkan. Tanpa informasi ini, mereka mungkin tidak dapat mengarahkan upaya pemasaran secara efektif.
 2. Tim pemasaran harus mampu mengukur efektivitas kampanye pemasaran mereka untuk memastikan investasi sumber daya yang tepat dan mencapai hasil yang diinginkan. Kurangnya alat pengukuran yang tepat dapat mengakibatkan strategi pemasaran yang kurang efisien.
@@ -63,7 +61,7 @@ Kesimpulan dan rekomendasi dalam analisis data adalah ringkasan temuan dan saran
 <br><br>
 ---
 
-# **Dashboard Tableau**<br>
+## **Dashboard Tableau**<br>
 https://public.tableau.com/views/MarketingTeamDashboard/d1segmentasipelanggan?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link <br><br>
 ---
 
