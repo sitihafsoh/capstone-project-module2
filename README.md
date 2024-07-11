@@ -31,7 +31,7 @@ Tim Pemasaran Amazon Web Services (AWS)
 ### **A. Pemahaman dan Pembersihan Data**
 Pemahaman data (data understanding) merupakan fondasi esensial dalam analisis data. Berbagai aspek data, seperti format, struktur, tipe variabel, distribusi nilai, dan hubungan antar variabel, ditelaah untuk mengidentifikasi karakteristik, keunikan, dan potensi anomali. Anomali dianalisis dengan domain knowledge dan statistik untuk mencari akar permasalahannya. Pemahaman data menghasilkan model yang akurat, andal, dan berujung pada kesimpulan yang tepat.
 
-Proses pemahaman dan pembersihan data:
+Proses pemahaman dan pembersihan data:<br>
 1. Informasi umum<br>
 2. Duplikasi data<br>
 3. Missing value<br>
@@ -48,11 +48,11 @@ Berisi data yang sudah selesai dibersihkan dan siap untuk proses analisa data.
 ## **Analisa Data**
 Analisis data adalah proses sistematis untuk menguraikan, menginterpretasikan, dan mengolah data agar dapat diambil kesimpulan yang berharga. Tujuannya untuk meningkatkan pemahaman, membuat keputusan, memecahkan masalah, meningkatkan efisiensi, dan menemukan peluang baru. Jenisnya terbagi menjadi dua, yaitu kualitatif dan kuantitatif. Manfaatnya antara lain meningkatkan pengambilan keputusan, efisiensi, profitabilitas, kepuasan pelanggan, dan inovasi.
 
-Berikut adalah proses analisa data yang dilakukan pada kasus ini:
-A. Segmentasi Pelanggan dan Identifikasi Peluang Pasar
-B. Mengukur Efektivitas Kampanye Pemasaran
-C. Strategi Diskon dan Promosi
-D. Peningkatan Pengalaman Pelanggan
+Berikut adalah proses analisa data yang dilakukan pada kasus ini:<br>
+A. Segmentasi Pelanggan dan Identifikasi Peluang Pasar<br>
+B. Mengukur Efektivitas Kampanye Pemasaran<br>
+C. Strategi Diskon dan Promosi<br>
+D. Peningkatan Pengalaman Pelanggan<br>
 
 ## **Kesimpulan dan Rekomendasi**
 
