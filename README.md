@@ -48,11 +48,10 @@ Berisi data yang sudah selesai dibersihkan dan siap untuk proses analisa data.
 ## **Analisa Data**
 Analisis data adalah proses sistematis untuk menguraikan, menginterpretasikan, dan mengolah data agar dapat diambil kesimpulan yang berharga. Tujuannya untuk meningkatkan pemahaman, membuat keputusan, memecahkan masalah, meningkatkan efisiensi, dan menemukan peluang baru. Jenisnya terbagi menjadi dua, yaitu kualitatif dan kuantitatif. Manfaatnya antara lain meningkatkan pengambilan keputusan, efisiensi, profitabilitas, kepuasan pelanggan, dan inovasi.
 
-Berikut adalah proses analisa data yang dilakukan pada kasus ini:<br>
-A. Segmentasi Pelanggan dan Identifikasi Peluang Pasar<br>
-B. Mengukur Efektivitas Kampanye Pemasaran<br>
-C. Strategi Diskon dan Promosi<br>
-D. Peningkatan Pengalaman Pelanggan<br>
+### **A. Segmentasi Pelanggan dan Identifikasi Peluang Pasar**<br>
+### **B. Mengukur Efektivitas Kampanye Pemasaran**<br>
+### **C. Strategi Diskon dan Promosi**<br>
+### **D. Peningkatan Pengalaman Pelanggan**<br>
 
 ## **Kesimpulan dan Rekomendasi**
 
