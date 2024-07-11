@@ -58,8 +58,8 @@ D. Peningkatan Pengalaman Pelanggan
 
 Kesimpulan dan rekomendasi dalam analisis data adalah ringkasan temuan dan saran untuk tindakan yang harus diambil. Kesimpulan harus jelas, ringkas, dan didukung data, sedangkan rekomendasi harus spesifik, terukur, dan realistis. Keduanya penting untuk meningkatkan nilai analisis data dan memungkinkan pengambilan keputusan yang lebih efektif.
 
-1. Kesimpulan<br>
-2. Rekomendasi
+### A. Kesimpulan<br>
+### B. Rekomendasi
 <br><br>
 ---
 [Dashboard Tableau](https://public.tableau.com/views/MarketingTeamDashboard/d1segmentasipelanggan?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br><br>
