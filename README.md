@@ -32,15 +32,15 @@ Tim Pemasaran Amazon Web Services (AWS)
 Pemahaman data (data understanding) merupakan fondasi esensial dalam analisis data. Berbagai aspek data, seperti format, struktur, tipe variabel, distribusi nilai, dan hubungan antar variabel, ditelaah untuk mengidentifikasi karakteristik, keunikan, dan potensi anomali. Anomali dianalisis dengan domain knowledge dan statistik untuk mencari akar permasalahannya. Pemahaman data menghasilkan model yang akurat, andal, dan berujung pada kesimpulan yang tepat.
 
 Proses pemahaman dan pembersihan data:
-1. Informasi umum
-2. Duplikasi data
-3. Missing value
-4. Mengubah tipe data
-5. Unique value
-6. Statistik deskriptif awal
-7. Distribusi data dan outliers
-8. Korelasi antara variabel
-9. Data kategori
+1. Informasi umum<br>
+2. Duplikasi data<br>
+3. Missing value<br>
+4. Mengubah tipe data<br>
+5. Unique value<br>
+6. Statistik deskriptif awal<br>
+7. Distribusi data dan outliers<br>
+8. Korelasi antara variabel<br>
+9. Data kategori<br>
 
 ### **B. Clean Data**
 Berisi data yang sudah selesai dibersihkan dan siap untuk proses analisa data.
